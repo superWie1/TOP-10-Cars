@@ -1,2 +1,3 @@
 # TOP-10-Cars
-TOP Cars for me
+To make this project I used 2 languages: HTML and CSS.
+This project is responsive, I used flexboxes for that
